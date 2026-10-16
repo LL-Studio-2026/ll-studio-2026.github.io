@@ -2,7 +2,7 @@ google.com, pub-2095058876622363, DIRECT, f08c47fec0942fa0
 
 
 
-OWNERDOMAIN=[yourdomain.com]
+OWNERDOMAIN=ll-studio-2026.github.io/
 ironsrc.com, 622485, Direct
 
 media.net, 8CUH2L333, RESELLER
